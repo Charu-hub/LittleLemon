@@ -8,5 +8,4 @@ API Endpoints to Test
 4. api-token-auth/
 
 
-Feel free to test these endpoints using the provided API client or Postman.
 
